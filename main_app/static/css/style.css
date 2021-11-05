@@ -12,3 +12,11 @@ body {
     padding-top: 0;
     text-align: right;
   }
+  
+nav {
+  background-color: black !important;
+}
+
+footer {
+  background-color: black !important;
+}
